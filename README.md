@@ -1,4 +1,4 @@
-SimpleCalc - Starter Code
+SimpleCalc
 =========================
 
 SimpleCalc is a simple calculator app, with a handful of problems. This
